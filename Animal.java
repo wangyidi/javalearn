@@ -16,3 +16,7 @@ interface ZhaoDi{
     String play = "happy"
     void fly()
 }
+interface ZhaoDiDi{
+    int eyes =8;
+    
+}
