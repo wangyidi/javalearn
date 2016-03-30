@@ -34,4 +34,5 @@ public class Deer extends Animal implements Vagetarian{
     	d.sleep();
     	d.notkill();
     }
+    // come here once*_*
 }
