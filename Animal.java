@@ -12,3 +12,7 @@ interface Bird {
     int swing = 2;
     void fly();
 }
+interface ZhaoDi{
+    String play = "happy"
+    void fly()
+}
